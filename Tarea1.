@@ -1,5 +1,6 @@
 # Proyecto Final 
 
+
 ## Introducción
 Este cuaderno presenta un proyecto final sobre Ciencia de Datos.
 
@@ -15,7 +16,7 @@ Este cuaderno presenta un proyecto final sobre Ciencia de Datos.
 - Matplotlib
 - Scikit-learn
 
-- ## Herramientas de Ciencia de Datos
+## Herramientas de Ciencia de Datos
 | Herramienta      | Descripción                        |
 |------------------|-----------------------------------|
 | Jupyter Notebook  | Entorno para crear cuadernos      |
@@ -48,6 +49,3 @@ objetivos
 
 ## Autor
 Nombre del Autor: Susana Leiva Naranjo
-
-
-Lo siento, no pude importar el python
